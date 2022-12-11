@@ -2,7 +2,7 @@ def factorial(num):
     if num == 1 or num == 0:
         return 1
     else:
-        return num * factorial(num - 1)
+        return num * factor(num - 1)
 
 
 if __name__ == '__main__':
