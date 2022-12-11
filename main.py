@@ -24,3 +24,4 @@ class FactorialTestCase(unittest.TestCase):
 
 if __name__ == '__main__':
     print(factorial(7))
+    FactorialTestCase()
